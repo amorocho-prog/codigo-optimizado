@@ -1,0 +1,23 @@
+=== RESUMEN DE PROFILING ===
+
+TOP 10 funciones más costosas - CÓDIGO ORIGINAL:
+
+TOP 10 funciones más costosas - CÓDIGO OPTIMIZADO:
+
+Gráfico guardado como: analisis_rendimiento.png
+=== BENCHMARK COMPLETO ===
+
+Probando con límite: 1000
+Original: 0.0100s | Optimizado: 0.0000s
+
+Probando con límite: 5000
+Original: 0.1680s | Optimizado: 0.0000s
+
+Probando con límite: 10000
+Original: 0.5740s | Optimizado: 0.0000s
+
+Probando con límite: 50000
+Original: 11.2200s | Optimizado: 0.0000s
+
+Probando con límite: 100000
+Original: 41.0660s | Optimizado: 0.0000s

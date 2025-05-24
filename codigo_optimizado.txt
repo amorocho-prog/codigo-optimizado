@@ -1,0 +1,17 @@
+=== CÓDIGO OPTIMIZADO - BÚSQUEDA DE NÚMEROS PRIMOS ===
+
+1. Método optimizado con raíz cuadrada y list comprehension:
+Números primos encontrados: 9592
+Tiempo de ejecución: 0.1100 segundos
+
+2. Criba de Eratóstenes con NumPy:
+Números primos encontrados: 9592
+Tiempo de ejecución: 0.0010 segundos
+
+¿Los resultados coinciden? True
+Primeros 10 primos: [2, 3, 5, 7, 11, 13, 17, 19, 23, 29]
+Últimos 10 primos: [99877, 99881, 99901, 99907, 99923, 99929, 99961, 99971, 99989, 99991]
+
+Mejor método: Criba de Eratóstenes con NumPy
+Tiempo final optimizado: 0.0010 segundos
+PS C:\Users\Usuario\Desktop\python\codigo-optimizado> 

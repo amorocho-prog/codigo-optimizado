@@ -1,0 +1,7 @@
+=== CÓDIGO ORIGINAL - BÚSQUEDA DE NÚMEROS PRIMOS ===
+Buscando números primos del 1 al 100,000...
+Números primos encontrados: 9592
+Primeros 10 primos: [2, 3, 5, 7, 11, 13, 17, 19, 23, 29]
+Últimos 10 primos: [99877, 99881, 99901, 99907, 99923, 99929, 99961, 99971, 99989, 99991]
+Tiempo de ejecución: 35.1430 segundos
+PS C:\Users\Usuario\Desktop\python\codigo-optimizado>  
